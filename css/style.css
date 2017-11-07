@@ -87,14 +87,15 @@ color: #fff;
 	font-weight: 700;
 }
 .pricing-grids {
-margin: 12% 0;
+margin: 2% 0;
 }
 /*----*/
 .pricing-grid1,.pricing-grid2,.pricing-grid3 {
-width: 48%;
+width: 32%;
 float: left;
 text-align: center;
-margin-right: 2%;
+margin-left: 0.6%;
+margin-right: 0.6%;
 transition: 0.5s all;
 -webkit-transition: 0.5s all;
 -moz-transition: 0.5s all;
@@ -129,14 +130,6 @@ border-radius: 0.7em;
 	background: #512884;
 	padding: 2.8em 1.8em 2em;
 	border-bottom:2px solid#ffd500;
-	border-top-left-radius:0.7em;
-	-webkit-border-top-left-radius:0.7em;
-	-o-border-top-left-radius: 0.7em;
-	-moz-border-top-left-radius:0.7em;
-	border-top-right-radius:0.7em;
-	-webkit-border-top-right-radius:0.7em;
-	-o-border-top-right-radius:0.7em;
-	-moz-border-top-left-radius: 0.7em;
 	position: relative;
 }
 .price-value.two{
