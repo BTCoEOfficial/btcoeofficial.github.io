@@ -27,16 +27,12 @@ nav.vertical ul li{	display:block;}/* vertical menu */
 nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 img{max-width:100%;}
 /*end reset*/
-/****-----start-body----****/
-body{
-	background:url(https://preview.w3layouts.com/demos/flat_pricing_tables_design/web/images/bg.jpg)no-repeat 0px 0px;
-	    font-family: 'Lato', sans-serif;
-	    background-size: cover;
-	    -o-background-size: cover;
-	    -webkit-background-size: cover;
-	     -moz-background-size: cover;
 
+h1.customfont, h2.customfont { 
+    font-family: Verdana, Tahoma;
 }
+/****-----start-body----****/
+
 .ad728x90 {
 margin-top: 1em;
 }
